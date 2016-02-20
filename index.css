@@ -1,0 +1,19 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+/*body{
+	background: red;
+}*/
+@media screen and (max-width: 640px){
+	body{
+		background:red;
+	}
+}
+@media screen and (min-width: 640px){
+	body{
+		background:yellow;
+	}
+
+}
